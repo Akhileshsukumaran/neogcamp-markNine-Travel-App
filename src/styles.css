@@ -1,0 +1,34 @@
+.container {
+  max-width: 600px;
+  margin: auto;
+  padding: 5rem;
+}
+body {
+  background-color: #b5eaea;
+}
+ul {
+  padding-inline-start: 0;
+}
+.container button {
+  text-align: center;
+  background-color: #edf6e5;
+  color: #4c4c6d;
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  border-radius: 10px;
+  margin: 1rem 0.3rem;
+  border: 1px solid black;
+}
+
+li {
+  list-style: none;
+  background-color: #ffbcbc;
+  padding: 1rem;
+  border: 1px solid black;
+  width: 70%;
+  margin-top: 1rem;
+  border-radius: 5px;
+}
+.list {
+  padding: 1rem;
+}
